@@ -1,2 +1,2 @@
-# discord-clone
+# ConversaSync
 Implementaion of Discord clone
